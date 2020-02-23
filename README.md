@@ -1,4 +1,4 @@
-# Introdução
+# About
 
 Descrição do que vem a ser o Chá Comigo
 
